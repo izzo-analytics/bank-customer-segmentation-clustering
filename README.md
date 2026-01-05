@@ -37,4 +37,4 @@ L'analisi ha permesso di identificare cluster specifici su cui concentrare il bu
 * **Ottimizzazione Risorse**: Identificazione di cluster a bassa reattività (A1, B3) per ridurre lo spreco di budget pubblicitario.
 
 ---
-**Analisi a cura di:** Massimiliano Izzo
+**Analisi a cura di:** [Massimiliano Izzo](https://linkedin.com/in/massimilianoizzo) 

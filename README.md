@@ -1,4 +1,5 @@
 # Customer Segmentation with K-Means Clustering 📊
+Questo progetto rappresenta il caso studio finale per il modulo di **Fondamenti di Machine Learning**, realizzato all'interno del mio percorso di **Master Professionale in Data Analytics certificato da ProfessionAI e Alteredu**.
 
 ## 🎯 Obiettivo del Progetto
 L'obiettivo è segmentare una base clienti di oltre 8.900 titolari di carte di credito per definire strategie di marketing mirate. Il progetto trasforma dati transazionali grezzi in profili comportamentali azionabili per supportare il decision-making aziendale.

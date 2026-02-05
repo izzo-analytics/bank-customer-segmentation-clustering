@@ -37,6 +37,8 @@ L'analisi ha permesso di identificare cluster specifici su cui concentrare il bu
 * **Cluster A2 & B0**: Clienti con potenziale di indebitamento residuo, target per promozioni su pagamenti rateali.
 * **Ottimizzazione Risorse**: Identificazione di cluster a bassa reattività (A1, B3) per ridurre lo spreco di budget pubblicitario.
 
+Questo modello, sebbene applicato al marketing, è direttamente trasponibile all'analisi del rischio di credito. Ad esempio, identificare il cluster con elevati prelievi di contante e bassi pagamenti rateali può aiutare a prevedere precocemente situazioni di potenziale insolvenza o necessità di piani di rientro personalizzati.
+
 ---
 **Formazione:** Progetto certificato da **ProfessionAI** e **Alteredu**.
 **Autore:** [Massimiliano Izzo](https://linkedin.com/in/massimilianoizzo) – BI & Data Storytelling Specialist
